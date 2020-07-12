@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/3mrdev?style=social)](https://twitter.com/3mrdev)
+
 <!--
 **3mrdev/3mrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
