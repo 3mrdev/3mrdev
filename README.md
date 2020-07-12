@@ -1,10 +1,10 @@
 ### Hi there 👋
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/3mrdev) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=3mrdev.visitor-badge)](https://github.com/3mrdev) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/3mrdev)
+
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/3mrdev?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Software Engineer at **FireBits**](https://tut.3mr.dev/featured/firebitsstory/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/3mrdev/), You can **find me on [LinkedIn](https://www.linkedin.com/in/3mrdev/)**. 
 
 - 🔭 I’m currently working on Tutorials for my blog reach me on twitter for chat or help
 - 👯 Currently I'm **looking for contributions** for following projects:
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/3mrdev) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=3mrdev.visitor-badge)](https://github.com/3mrdev) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/3mrdev)
 
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Stars :star: |
