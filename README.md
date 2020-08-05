@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/3mrdev) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=3mrdev.visitor-badge)](https://github.com/3mrdev) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/3mrdev)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/3mrdev) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/3mrdev)
+[![Profile Views](https://komarev.com/ghpvc/?username=3mrdev&color=blue)](https://github.com/3mrdev) 
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/3mrdev?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Software Engineer at **FireBits**](https://tut.3mr.dev/featured/firebitsstory/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/3mrdev/), You can **find me on [LinkedIn](https://www.linkedin.com/in/3mrdev/)**. 
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/3mrdev?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Software Engineer at **FireBits**](https://tut.3mr.dev/featured/firebitsstory/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/3mrdev/), You can **find me on [LinkedIn](https://www.linkedin.com/in/3mrdev/)** and my own website <a href="https://3mr.dev">https://3mr.dev</a>. 
 
 - 🔭 I’m currently working on Tutorials for my blog reach me on twitter for chat or help
 - 👯 Currently I'm **looking for contributions** for following projects:
@@ -19,7 +21,11 @@ Consider leaving a :star: for **[Odoo Intelij Plugin](https://github.com/firebit
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/3mrdev?style=social)](https://twitter.com/3mrdev)
-
+[![Linkedin Badge](https://img.shields.io/badge/-3mrdev-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/3mrdev/)](https://www.linkedin.com/in/3mrdev/) 
+[![Instagram Badge](https://img.shields.io/badge/-3mrdev-blue?style=social&logo=Instagram&link=https://www.instagram.com/3mrdevs/)](https://www.instagram.com/3mrdevs/)
+[![Telegram Badge](https://img.shields.io/badge/-@3mrdev-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/amrabdalkrim "Contact on Telegram")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/3mrdevs "Connect on Facebook")
+<a href="https://www.youtube.com/c/wizmoori"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
 <!--
 **3mrdev/3mrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
