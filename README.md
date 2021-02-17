@@ -27,7 +27,7 @@ Consider leaving a :star: for **[Odoo Intelij Plugin](https://github.com/firebit
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/3mrdevs "Connect on Facebook")
 <a href="https://www.youtube.com/wizmoori"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![3mr's GitHub stats](https://github-readme-stats.vercel.app/api?username=3mrdev&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![3mr's GitHub stats](https://github-readme-stats.vercel.app/api?username=3mrdev&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 
 <!--
 **3mrdev/3mrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
