@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/3mrdev)
 [![Profile Views](https://komarev.com/ghpvc/?username=3mrdev&color=blue)](https://github.com/3mrdev) 
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/3mrdev?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Software Engineer at **FireBits**](https://tut.3mr.dev/featured/firebitsstory/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/3mrdev/), You can **find me on [LinkedIn](https://www.linkedin.com/in/3mrdev/)** and my own website <a href="https://3mr.dev">https://3mr.dev</a>. 
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/3mrdev?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how did games work back in 2008 to becoming [Software Engineer at **FireBits**](https://tut.3mr.dev/featured/firebitsstory/) :dart: in 2013 🇸🇩 . Outside of [GitHub](https://github.com/3mrdev/), You can **find me on [LinkedIn](https://www.linkedin.com/in/3mrdev/)** and my own website <a href="https://3mr.dev">https://3mr.dev</a> or my other socials <a href="https://3mrdev.github.io/3mrdev/">https://3mrdev.github.io</a>. 
 
 - 🔭 I’m currently working on Tutorials for my blog reach me on twitter for chat or help
 - 👯 Currently I'm **looking for contributions** for following projects:
