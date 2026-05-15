@@ -1,0 +1,202 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.con {  
+    width: 100%; 
+    /*height: 100%; */
+    overflow: hidden;
+}
+
+body {
+    font-family: Helvetica sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(2, 61, 100, 1) !important;
+    /*overflow: hidden;*/
+    /*-webkit-user-select: none;*/
+    /*-moz-user-select: none;*/
+    /*-o-user-select: none;*/
+    /*-ms-user-select: none;*/
+    /*user-select: none;*/
+}
+
+p {
+    color: lightgray;
+    font-size: 20px;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.con {
+    /*position: absolute;*/
+    /*width: 40%;*/
+    /*left: 55%;*/
+    /*top: 10%;*/
+    color: white;
+}
+
+/*.con2 {*/
+/*    position: absolute;*/
+/*    width: 40%;*/
+/*    left: 12.5%;*/
+/*    color: white;*/
+/*}*/
+
+.blink:link, .blink:visited {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.alink:link, .alink:visited {
+    background-color: #00ACEE;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.alink:hover, .alink:active {
+    background-color: #0eb0bf;
+}
+
+@media only screen and (max-width: 600px) {
+    .social {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  #social2 { display: block; width: 100%;}  /* show it on small screens */
+  #linkedin, #facebook, #twitter, #youtube, #odoo, #github, #medium, #instagram, #dev, #behance, #discord, #soundcloud, #reddit, #ask, #spotify,#stackoverflow, #telegram,#letterboxd,#myanimelist {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 2px dashed white;
+    background-clip: content-box;
+    padding: 7px;
+    transition: .5s;
+    text-align: center;
+    color: #fffff;
+    margin: 7px;
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  #social2 { display: none; width: 100%;}   /* hide it elsewhere */
+}
+    
+.social {
+    position: absolute;
+    width: 100%;
+    top: 86%;
+    text-align: center;
+    transform: translateY(-50%);
+}
+
+.social .link {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 2px dashed white;
+    background-clip: content-box;
+    padding: 7px;
+    transition: .5s;
+    color: #D7D0BE;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.social .link span {
+    display: block;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.social .link:hover {
+    padding: 10px;
+    width: 120px;
+    height: 120px;
+    font-size: 65px;
+    color: white;
+    margin-left: -5px;
+    transform: translateX(10px) rotate(360deg);
+}
+
+.link.instagram {
+    background-color: #E43565;
+    color: white;
+}
+
+.link.twitter {
+    background-color: #00ACEE;
+    color: white;
+}
+
+.link.facebook {
+    background-color: #3B5998;
+    color: white;
+}
+
+.link.youtube {
+    background-color: red;
+    color: white;
+}
+
+.link.github {
+    background-color: black;
+    color: white;
+}
+
+.link.medium {
+    background-color: gray;
+    color: white;
+}
+
+.link.linkedin {
+    background-color: #0077B4;
+    color: white;
+}
+
+.link.spotify {
+    background-color: #1AD75F;
+    color: white;
+}
+
+.link.soundcloud {
+    background-color: #F66F0F;
+    color: white;
+}
+
+.link.reddit {
+    background-color: #FF4500;
+    color: white;
+}
+
+.link.odoo {
+    background-color: #7C6074;
+    color: white;
+}
+
+.link.askfm {
+    background-color: #784588;
+    color: white;
+}
